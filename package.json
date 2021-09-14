@@ -11,5 +11,10 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NachoHernandezV/paquete.git"
+  }
 }
