@@ -1,0 +1,15 @@
+{
+  "name": "ramdon",
+  "version": "1.1.0",
+  "description": "Crear un Random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Hernandez <hjoseignacio@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
